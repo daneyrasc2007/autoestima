@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="lightcyan">
+<head>
+<title>RETROALIMENTACION 1</title>
+</head>
+
+<body>
+<center>
+<h1><font face="didot" color="pink">SEGURIDAD CONMIGO MISMO</font></h1>
+<img src="./autoestima.jpg"/>
+<h1><font face="brush script mt" color="purple"><font size="3"</font> "NO JUZGUEZ TU PROCESO, VAS A TU RITMO Y A TU TIEMPO"</font></h1>
+</center>
+<h2><font face="perpetua" color="black"><font color="#0000FF">¿Que es la autoestima?</font><br>
+La autoestima es la valoracion que<br>
+tenemos de notros mismos. Se<br>
+construye y refuerza cada dia, asi<br>
+que es muy importante trabajarla<br>
+para poder construir nuestros sueños<br>
+y tener una vida mas feliz</p>
+
+</font></h2>
+<center>
+<h2><font face="perpetua" color="black"><font color="#0000FF">¿COMO INFLUYE LA AUTOESTIMA?</h2><br>
+Influye y se expresa a traves del comportamiento<br>
+del sujeto en todas sus dimensiones<br>
+y manifestaciones, tales como autoaceptacion,<br>
+afrontamineto, aceptacion de los demas e<br>
+interacciones sociales, entre otras</p>
+
